@@ -29,6 +29,6 @@ export const lucia = new Lucia(adapter, {
 export const google = new Google(
 	env.PRIVATE_GOOGLE_CLIENT_ID,
 	env.PRIVATE_GOOGLE_CLIENT_SECRET,
-	(env.APP_ENV === 'prod' ? env.ORIGIN : 'http://localhost:5173') +
+	(env.APP_ENV === 'prod' ? env.ORIGIN : 'https://frontend-production-ddf6.up.railway.app') +
 		'/login/google/callback',
 )
