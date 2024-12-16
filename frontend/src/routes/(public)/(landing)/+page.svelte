@@ -63,7 +63,7 @@
 			</Button>
 		</div>
 		<div class="flex flex-col items-center gap-10 pt-12 text-center">
-			<h2 class="text-4xl font-bold">Why Kon.sh?</h2>
+			<h2 class="text-4xl font-bold">Why QRR.be?</h2>
 			<p class="max-w-lg text-center text-xl font-semibold">
 				Kon.sh is completely self-hostable, open source, and free. No
 				vendor lock-in, can be hosted using docker/docker compose with
