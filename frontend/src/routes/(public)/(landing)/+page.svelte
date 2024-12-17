@@ -53,7 +53,7 @@
 				Kon.sh
 			</h1>
 			<h2 class="max-w-sm text-center text-xl font-semibold">
-				Free, Test Shortener with Analytics and Custom QR
+				Free, Test2 Shortener with Analytics and Custom QR
 				Code
 			</h2>
 			<Button
